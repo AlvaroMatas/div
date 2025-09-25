@@ -7,5 +7,87 @@ body{
 }
 
 .logo_liga{
-    width: 80px;
+    width: 150px;
+    margin-left: 660px;
+}
+
+.menu_lateral{
+    width: 15%;
+    height: 100vh;
+    float: left;
+    background-color: rgb(255, 82, 82);
+}
+
+.Introducción{
+    width: 85%;
+    float: right;
+    background-color: rgb(179, 179, 179);
+    height: 100vh;
+}
+
+.encabezado{
+    text-align: center;
+}
+
+.contenido{
+    text-align: justify;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+ul{
+    margin-left: 550px;
+}
+
+li{
+    margin-left: 50px;
+}
+
+.madrid{
+    color: white;
+}
+
+.barca{
+    color: blue;
+}
+
+.atleti{
+    color: red;
+}
+
+.valencia{
+    color: orange;
+}
+
+.lista{
+    margin-left: 25px;
+    padding: 5px;
+    height: 100px;
+    width: 250px;
+    background-color: grey;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.titulo_liga{
+    margin-left: 650px;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+h3{
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+.titulo_lista{
+    font-size: 20px;
+    margin-left: 0px;
 }
