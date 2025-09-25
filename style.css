@@ -97,3 +97,9 @@ h4{
     margin-left: 10px;
     margin-bottom: 5px;
 }
+
+.footer{
+    background-color: grey;
+    padding: 10px;
+    text-align: center;
+}
