@@ -38,11 +38,11 @@ p{
     font-size: 20px;
 }
 
-ul{
+.lista_equipos{
     margin-left: 550px;
 }
 
-li{
+.equipos{
     margin-left: 50px;
 }
 
@@ -90,4 +90,10 @@ h3{
 .titulo_lista{
     font-size: 20px;
     margin-left: 0px;
+}
+
+h4{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-bottom: 5px;
 }
